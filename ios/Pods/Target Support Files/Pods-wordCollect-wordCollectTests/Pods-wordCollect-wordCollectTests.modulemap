@@ -1,0 +1,6 @@
+module Pods_wordCollect_wordCollectTests {
+  umbrella header "Pods-wordCollect-wordCollectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

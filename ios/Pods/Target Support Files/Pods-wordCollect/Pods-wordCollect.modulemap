@@ -1,0 +1,6 @@
+module Pods_wordCollect {
+  umbrella header "Pods-wordCollect-umbrella.h"
+
+  export *
+  module * { export * }
+}
